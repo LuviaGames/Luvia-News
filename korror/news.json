@@ -1,0 +1,38 @@
+[
+    {
+		"en": {
+			"date": "August 15th, 2023",
+			"title": "News repository migrated",
+			"text": "All Luvia Games news about games have been merged in a single repository"
+		},
+		"es": {
+			"date": "15 de Agosto, 2023",
+			"title": "Repositorio de noticias migrado",
+			"text": "Todas las noticias sobre los juegos de Luvia Games han sido agrupadas en un único repositorio"
+		}
+	},
+    {
+		"en": {
+			"date": "July 9th, 2021",
+			"title": "News in other languages!",
+			"text": "Finally! news in supported languages have arrived!"
+		},
+		"es": {
+			"date": "9 de Julio, 2021",
+			"title": "Noticias en otros idiomas!",
+			"text": "¡Al fin se podrán ver las noticias en los idiomas soportados!"
+		}
+	},
+	{
+		"en": {
+			"date": "July 8th, 2021",
+			"title": "Refactor, and refactor",
+			"text": "We are working hard to refactor the game codebase so that new features can be added quickier, please stay tunned!"
+		},
+		"es": {
+			"date": "8 de Julio, 2021",
+			"title": "Refactorizar y refactorizar",
+			"text": "Estamos trabajando muy duro para refactorizar el código del juego y así poder añadir nuevas características más rápido!"
+		}
+	}
+]
